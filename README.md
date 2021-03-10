@@ -9,7 +9,7 @@ make nodejs cli app from typescript template
 make minify nodejs app dist/app
 
 ```console
-$ npx digit aozora0000/esbuild-cli app
+$ npx degit aozora0000/esbuild-cli app
 $ cd app
 $ npm i
 $ npm run build
